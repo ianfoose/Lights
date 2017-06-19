@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lights.iml" filepath="$PROJECT_DIR$/Lights.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apihelper/apihelper.iml" filepath="$PROJECT_DIR$/apihelper/apihelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lightshelper/lightshelper.iml" filepath="$PROJECT_DIR$/lightshelper/lightshelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/watchlights/watchlights.iml" filepath="$PROJECT_DIR$/watchlights/watchlights.iml" />
+    </modules>
+  </component>
+</project>

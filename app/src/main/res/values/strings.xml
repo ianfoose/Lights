@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lights</string>
+    <string name="name_field">Light Name</string>
+    <string name="channel_field">Channel</string>
+    <string name="text_placeholder">Some Text</string>
+    <string name="state">State</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="switchText">Switch</string>
+    <string name="channel">Channel</string>
+    <string name="name">Name</string>
+</resources>
